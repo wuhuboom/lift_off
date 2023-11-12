@@ -1,1 +1,0 @@
-java -jar ./ball_web_third.jar --spring.config.location=./application.yml
